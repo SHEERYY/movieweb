@@ -9,4 +9,4 @@ COPY app/ .
 
 EXPOSE 4000
 
-CMD ["python", "app.py"]
+CMD ["html", "movie.html"]
